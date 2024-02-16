@@ -7,7 +7,7 @@
   
 <h2> Sophia.org Introduction to Networking Final Report:</h2>
 
-- <b>[Active Directory Home Lab](https://github.com/slaird2077/LABURL) </b>
+- <b>[Greenfield Properties Network Design](https://github.com/slaird2077/LABURL) </b>
 
 <h2> 🤳 Connect with me:</h2>
 
