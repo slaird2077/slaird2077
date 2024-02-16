@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>[Active Directory Home Lab](https://github.com/slaird2077/LABURL) </b>
+- <b>[Active Directory Home Lab](https://github.com/slaird2077/Active-Directory-Lab) </b>
   
 <h2> Sophia.org Introduction to Networking Final Report:</h2>
 
