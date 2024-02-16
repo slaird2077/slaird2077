@@ -4,9 +4,9 @@
 
 - <b>[Active Directory Home Lab](https://github.com/slaird2077/LABURL) </b>
   
-<h2>📺 Popular YouTube Videos</h2>
+<h2> Sophia.org Introduction to Networking Final Report:</h2>
 
-- [Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- <b>[Active Directory Home Lab](https://github.com/slaird2077/LABURL) </b>
 
 <h2> 🤳 Connect with me:</h2>
 
