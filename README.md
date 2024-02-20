@@ -7,7 +7,7 @@
   
 <h2> Sophia.org Introduction to Networking Final Report:</h2>
 
-- <b>[Greenfield Properties Network Design](https://github.com/slaird2077/LABURL) </b>
+- <b>[Greenfield Properties Network Design](https://github.com/slaird2077/Greenfield-Properties-Network/blob/main/Final%20Touchstone%204%20Greenfield%20Scott%20Laird.docx.pdf) </b>
 
 <h2> 🤳 Connect with me:</h2>
 
